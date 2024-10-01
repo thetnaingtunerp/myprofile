@@ -6,7 +6,7 @@
 ### <div align="center">I'm Thet Naing Tun, a full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [GYB IT solution](https://github.com/)  
+- 🔭 I’m currently working on [Blue Star IT solution](https://github.com/)  
   
 
 - 🌱 I’m currently learning NEXT.js and Django Framework  
